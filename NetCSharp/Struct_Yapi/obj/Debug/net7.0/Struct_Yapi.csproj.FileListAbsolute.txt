@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/bin/Debug/net7.0/Struct_Yapi
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/bin/Debug/net7.0/Struct_Yapi.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/bin/Debug/net7.0/Struct_Yapi.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/bin/Debug/net7.0/Struct_Yapi.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/bin/Debug/net7.0/Struct_Yapi.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/refint/Struct_Yapi.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/Struct_Yapi.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Struct_Yapi/obj/Debug/net7.0/ref/Struct_Yapi.dll

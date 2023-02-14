@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/bin/Debug/net7.0/Enum
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/bin/Debug/net7.0/Enum.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/bin/Debug/net7.0/Enum.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/bin/Debug/net7.0/Enum.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/bin/Debug/net7.0/Enum.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/refint/Enum.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/Enum.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Enum/obj/Debug/net7.0/ref/Enum.dll
