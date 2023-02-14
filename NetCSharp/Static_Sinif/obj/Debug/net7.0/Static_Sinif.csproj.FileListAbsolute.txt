@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/bin/Debug/net7.0/Static_Sinif
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/bin/Debug/net7.0/Static_Sinif.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/bin/Debug/net7.0/Static_Sinif.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/bin/Debug/net7.0/Static_Sinif.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/bin/Debug/net7.0/Static_Sinif.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/refint/Static_Sinif.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/Static_Sinif.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Static_Sinif/obj/Debug/net7.0/ref/Static_Sinif.dll
