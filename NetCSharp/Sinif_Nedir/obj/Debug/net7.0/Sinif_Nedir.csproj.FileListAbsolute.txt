@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/bin/Debug/net7.0/Sinif_Nedir
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/bin/Debug/net7.0/Sinif_Nedir.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/bin/Debug/net7.0/Sinif_Nedir.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/bin/Debug/net7.0/Sinif_Nedir.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/bin/Debug/net7.0/Sinif_Nedir.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/refint/Sinif_Nedir.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/Sinif_Nedir.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Sinif_Nedir/obj/Debug/net7.0/ref/Sinif_Nedir.dll

@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/bin/Debug/net7.0/Erisim_Belirleyiciler
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/bin/Debug/net7.0/Erisim_Belirleyiciler.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/bin/Debug/net7.0/Erisim_Belirleyiciler.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/bin/Debug/net7.0/Erisim_Belirleyiciler.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/bin/Debug/net7.0/Erisim_Belirleyiciler.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/refint/Erisim_Belirleyiciler.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/Erisim_Belirleyiciler.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Erisim_Belirleyiciler/obj/Debug/net7.0/ref/Erisim_Belirleyiciler.dll

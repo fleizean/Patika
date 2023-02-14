@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/bin/Debug/net7.0/Encapsulation_Property
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/bin/Debug/net7.0/Encapsulation_Property.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/bin/Debug/net7.0/Encapsulation_Property.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/bin/Debug/net7.0/Encapsulation_Property.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/bin/Debug/net7.0/Encapsulation_Property.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/refint/Encapsulation_Property.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/Encapsulation_Property.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Encapsulation_Property/obj/Debug/net7.0/ref/Encapsulation_Property.dll
