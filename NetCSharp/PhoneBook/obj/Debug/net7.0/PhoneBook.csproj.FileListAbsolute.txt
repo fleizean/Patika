@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/bin/Debug/net7.0/PhoneBook
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/bin/Debug/net7.0/PhoneBook.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/bin/Debug/net7.0/PhoneBook.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/bin/Debug/net7.0/PhoneBook.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/bin/Debug/net7.0/PhoneBook.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/refint/PhoneBook.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/PhoneBook.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/PhoneBook/obj/Debug/net7.0/ref/PhoneBook.dll
