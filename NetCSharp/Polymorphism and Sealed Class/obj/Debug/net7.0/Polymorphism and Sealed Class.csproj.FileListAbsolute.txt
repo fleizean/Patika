@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/bin/Debug/net7.0/Polymorphism and Sealed Class
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/bin/Debug/net7.0/Polymorphism and Sealed Class.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/bin/Debug/net7.0/Polymorphism and Sealed Class.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/bin/Debug/net7.0/Polymorphism and Sealed Class.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/bin/Debug/net7.0/Polymorphism and Sealed Class.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/refint/Polymorphism and Sealed Class.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/Polymorphism and Sealed Class.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Polymorphism and Sealed Class/obj/Debug/net7.0/ref/Polymorphism and Sealed Class.dll
