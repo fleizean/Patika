@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/bin/Debug/net7.0/Abstract Class
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/bin/Debug/net7.0/Abstract Class.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/bin/Debug/net7.0/Abstract Class.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/bin/Debug/net7.0/Abstract Class.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/bin/Debug/net7.0/Abstract Class.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/refint/Abstract Class.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/Abstract Class.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Abstract Class/obj/Debug/net7.0/ref/Abstract Class.dll

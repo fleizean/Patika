@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/bin/Debug/net7.0/Interface
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/bin/Debug/net7.0/Interface.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Interface/obj/Debug/net7.0/ref/Interface.dll
