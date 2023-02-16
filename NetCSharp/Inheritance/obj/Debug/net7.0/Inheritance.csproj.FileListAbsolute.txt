@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll
