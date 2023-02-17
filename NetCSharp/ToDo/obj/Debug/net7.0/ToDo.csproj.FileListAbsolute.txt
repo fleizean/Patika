@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/bin/Debug/net7.0/ToDo
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/bin/Debug/net7.0/ToDo.deps.json
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/bin/Debug/net7.0/ToDo.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/bin/Debug/net7.0/ToDo.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/bin/Debug/net7.0/ToDo.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/refint/ToDo.dll
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.pdb
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ToDo.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/NetCSharp/ToDo/obj/Debug/net7.0/ref/ToDo.dll
