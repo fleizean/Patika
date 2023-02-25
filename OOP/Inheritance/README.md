@@ -3,11 +3,11 @@ Kalıtım, programlama ortamında da gerçek hayattaki tanımına benzer bir iş
 
 Eğer bir A sınıfın B sınıfından kalıtım yapması isteniyorsa, aşağıda ki şekilde tanımlanır.
 
-<code>
+```
 public class A extends B {
      // 
 }
-</code>
+```
 
 ## Kalıtım Türleri
 ### Tek Yönlü Kalıtım (Single Inheritance)
