@@ -1,6 +1,6 @@
 </br>
 <p align="center">
-  <kbd><img src="img/c1.png" height=1000 alt="mask"></kbd>
+  <kbd><img src="img/c1.png" height=743 alt="mask"></kbd>
 </p>
 </br>
 
