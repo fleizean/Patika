@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/bin/Debug/net7.0/Homework - Zoo Managment System
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/bin/Debug/net7.0/Homework - Zoo Managment System.deps.json
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/bin/Debug/net7.0/Homework - Zoo Managment System.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/bin/Debug/net7.0/Homework - Zoo Managment System.dll
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/bin/Debug/net7.0/Homework - Zoo Managment System.pdb
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.dll
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/refint/Homework - Zoo Managment System.dll
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.pdb
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/Homework - Zoo Managment System.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/OOP/Homework - Zoo Managment System/obj/Debug/net7.0/ref/Homework - Zoo Managment System.dll
