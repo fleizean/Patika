@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/bin/Debug/net7.0/Character Replacement
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/bin/Debug/net7.0/Character Replacement.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/bin/Debug/net7.0/Character Replacement.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/bin/Debug/net7.0/Character Replacement.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/bin/Debug/net7.0/Character Replacement.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/refint/Character Replacement.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/Character Replacement.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Character Replacement/obj/Debug/net7.0/ref/Character Replacement.dll

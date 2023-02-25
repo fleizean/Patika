@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/bin/Debug/net7.0/Calculate Area
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/bin/Debug/net7.0/Calculate Area.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/bin/Debug/net7.0/Calculate Area.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/bin/Debug/net7.0/Calculate Area.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/bin/Debug/net7.0/Calculate Area.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/refint/Calculate Area.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/Calculate Area.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Calculate Area/obj/Debug/net7.0/ref/Calculate Area.dll

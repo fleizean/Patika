@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/bin/Debug/net7.0/Silent Letter
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/bin/Debug/net7.0/Silent Letter.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/bin/Debug/net7.0/Silent Letter.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/bin/Debug/net7.0/Silent Letter.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/bin/Debug/net7.0/Silent Letter.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/refint/Silent Letter.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/Silent Letter.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Silent Letter/obj/Debug/net7.0/ref/Silent Letter.dll

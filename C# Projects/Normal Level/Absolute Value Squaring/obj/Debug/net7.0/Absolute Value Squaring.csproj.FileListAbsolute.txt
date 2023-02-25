@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/bin/Debug/net7.0/Absolute Value Squaring
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/bin/Debug/net7.0/Absolute Value Squaring.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/bin/Debug/net7.0/Absolute Value Squaring.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/bin/Debug/net7.0/Absolute Value Squaring.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/bin/Debug/net7.0/Absolute Value Squaring.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/refint/Absolute Value Squaring.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/Absolute Value Squaring.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Absolute Value Squaring/obj/Debug/net7.0/ref/Absolute Value Squaring.dll

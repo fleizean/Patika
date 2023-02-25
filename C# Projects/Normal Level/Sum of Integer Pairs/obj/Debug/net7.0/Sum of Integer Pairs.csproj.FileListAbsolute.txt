@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/bin/Debug/net7.0/Sum of Integer Pairs
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/bin/Debug/net7.0/Sum of Integer Pairs.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/bin/Debug/net7.0/Sum of Integer Pairs.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/bin/Debug/net7.0/Sum of Integer Pairs.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/bin/Debug/net7.0/Sum of Integer Pairs.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/refint/Sum of Integer Pairs.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/Sum of Integer Pairs.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Normal Level/Sum of Integer Pairs/obj/Debug/net7.0/ref/Sum of Integer Pairs.dll
