@@ -62,7 +62,7 @@ Sınıfa ait davranışlara ait sözdizimi (syntax):
 - Geri Dönüş Türü (Return Type): Metodun geri dönüş tipini belirtir.
 </br>
 <p align="center">
-  <kbd><img src="img/c2.jpg" height=350 alt="mask"></kbd>
+  <kbd><img src="img/c2.png" height=350 alt="mask"></kbd>
 </p>
 </br>
 
