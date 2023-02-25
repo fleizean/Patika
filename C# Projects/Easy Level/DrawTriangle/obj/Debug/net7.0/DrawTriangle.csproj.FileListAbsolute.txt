@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/bin/Debug/net7.0/DrawTriangle
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/bin/Debug/net7.0/DrawTriangle.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/bin/Debug/net7.0/DrawTriangle.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/bin/Debug/net7.0/DrawTriangle.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/bin/Debug/net7.0/DrawTriangle.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/refint/DrawTriangle.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/DrawTriangle.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawTriangle/obj/Debug/net7.0/ref/DrawTriangle.dll

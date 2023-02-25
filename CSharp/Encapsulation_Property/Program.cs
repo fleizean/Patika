@@ -22,7 +22,7 @@ public class Program
         Student s1 = new Student("Deniz", "Arda", 256, 1);
         s1.DecreaseClass();
         s1.DecreaseClass();
-        S1.StudentPrinter();
+        s1.StudentPrinter();
 	}
 	
 	class Student

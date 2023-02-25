@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/bin/Debug/net7.0/DrawCircle
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/bin/Debug/net7.0/DrawCircle.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/bin/Debug/net7.0/DrawCircle.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/bin/Debug/net7.0/DrawCircle.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/bin/Debug/net7.0/DrawCircle.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/refint/DrawCircle.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/DrawCircle.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/DrawCircle/obj/Debug/net7.0/ref/DrawCircle.dll

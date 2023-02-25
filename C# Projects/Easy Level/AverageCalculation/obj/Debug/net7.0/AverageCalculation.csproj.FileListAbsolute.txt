@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/bin/Debug/net7.0/AverageCalculation
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/bin/Debug/net7.0/AverageCalculation.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/bin/Debug/net7.0/AverageCalculation.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/bin/Debug/net7.0/AverageCalculation.dll
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/bin/Debug/net7.0/AverageCalculation.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.dll
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/refint/AverageCalculation.dll
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/AverageCalculation.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/AverageCalculation/obj/Debug/net7.0/ref/AverageCalculation.dll

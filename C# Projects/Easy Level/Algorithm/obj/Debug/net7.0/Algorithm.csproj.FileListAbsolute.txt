@@ -1,0 +1,15 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/bin/Debug/net7.0/Algorithm
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/bin/Debug/net7.0/Algorithm.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/bin/Debug/net7.0/Algorithm.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/bin/Debug/net7.0/Algorithm.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/bin/Debug/net7.0/Algorithm.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/refint/Algorithm.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/Algorithm.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Easy Level/Algorithm/obj/Debug/net7.0/ref/Algorithm.dll
