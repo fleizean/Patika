@@ -1,0 +1,17 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/bin/Debug/net7.0/Voting App
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/bin/Debug/net7.0/Voting App.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/bin/Debug/net7.0/Voting App.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/bin/Debug/net7.0/Voting App.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/bin/Debug/net7.0/Voting App.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/bin/Debug/net7.0/Spectre.Console.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.csproj.CopyComplete
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/refint/Voting App.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/Voting App.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/obj/Debug/net7.0/ref/Voting App.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zknkpc4UzPyfYgaOmAYAESJVkec70dzHS6w1w4fdfdwJSdLjhsZOb8P/dMR3V0gV2KSJ6twcT0TAFFZdtTox7w==",
+  "success": true,
+  "projectFilePath": "/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/Voting App/Voting App.csproj",
+  "expectedPackageFiles": [
+    "/Users/fleizean/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
