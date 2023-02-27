@@ -7,3 +7,9 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 - Eğer film mevcut değil ise talep edilebilir.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+
+</br>
+<p align="center">
+  <kbd><img src="img/cinemadiagram.png" height=743 alt="mask"></kbd>
+</p>
+</br>
