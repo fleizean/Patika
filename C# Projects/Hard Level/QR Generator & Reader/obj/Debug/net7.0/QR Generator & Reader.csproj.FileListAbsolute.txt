@@ -1,0 +1,20 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/QR Generator & Reader
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/QR Generator & Reader.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/QR Generator & Reader.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/QR Generator & Reader.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/QR Generator & Reader.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/itextsharp.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/QRCoder.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/bin/Debug/net7.0/Spectre.Console.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.csproj.CopyComplete
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/refint/QR Generator & Reader.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/QR Generator & Reader.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/obj/Debug/net7.0/ref/QR Generator & Reader.dll

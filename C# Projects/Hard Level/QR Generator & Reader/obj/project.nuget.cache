@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "9a3nKZHBngcgL6JA4JTQC3kHWGDQxrwvD9doZQ9cIiOlGPiZmumGJ2Dm5sBR+eD+zxSsbWGlj9mp22VXO/VhMA==",
+  "success": true,
+  "projectFilePath": "/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/QR Generator & Reader/QR Generator & Reader.csproj",
+  "expectedPackageFiles": [
+    "/Users/fleizean/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/itextsharp/5.5.13.3/itextsharp.5.5.13.3.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/microsoft.netcore.platforms/1.1.1/microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/microsoft.netcore.targets/1.1.3/microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/qrcoder/1.4.3/qrcoder.1.4.3.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/system.runtime/4.3.1/system.runtime.4.3.1.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/zxing.net/0.16.8/zxing.net.0.16.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
