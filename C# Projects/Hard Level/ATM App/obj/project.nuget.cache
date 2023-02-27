@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "46Xzh42DnF1Ty7toaR0YIsVeTpoFL68apxdID9hTIoQzJZhBjHedozwUSJ8fcbYQ3KyaY/NFLodcoAwoIQcDpA==",
+  "success": true,
+  "projectFilePath": "/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/ATM App.csproj",
+  "expectedPackageFiles": [
+    "/Users/fleizean/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
+    "/Users/fleizean/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

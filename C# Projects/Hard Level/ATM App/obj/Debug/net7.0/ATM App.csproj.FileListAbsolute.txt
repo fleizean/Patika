@@ -1,0 +1,17 @@
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/bin/Debug/net7.0/ATM App
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/bin/Debug/net7.0/ATM App.deps.json
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/bin/Debug/net7.0/ATM App.runtimeconfig.json
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/bin/Debug/net7.0/ATM App.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/bin/Debug/net7.0/ATM App.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/bin/Debug/net7.0/Spectre.Console.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.csproj.AssemblyReference.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.AssemblyInfoInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.AssemblyInfo.cs
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.csproj.CoreCompileInputs.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.csproj.CopyComplete
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/refint/ATM App.dll
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.pdb
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ATM App.genruntimeconfig.cache
+/Users/fleizean/Desktop/Patika/C# Projects/Hard Level/ATM App/obj/Debug/net7.0/ref/ATM App.dll

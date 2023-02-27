@@ -98,7 +98,6 @@ namespace votingapp
                 var lastname = AnsiConsole.Ask<string>("[green]Lastname[/]:");
                 user._LastName = lastname;
                 user._UserCreationDate = DateTime.Now;
-
                 bool action = ctxuser.AddUser(user);
                 if(action == true)
                     Console.WriteLine("Account created successfully!");
