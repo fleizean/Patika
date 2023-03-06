@@ -1,0 +1,11 @@
+Transaction Log
+
+Log ID - Log User ID - Title - IP - Date
+0 - 1 - Succesful Login - 127.0.0.1 - 2/28/2023 2:45:58 PM
+1 - 1 - Taxes Payment successful - 127.0.0.1 - 2/28/2023 2:46:07 PM
+2 - 1 - Failed Deposit - 127.0.0.1 - 2/28/2023 2:46:15 PM
+3 - 1 - Succesful Deposit - 127.0.0.1 - 2/28/2023 2:46:15 PM
+4 - 1 - Succesful Withdraw - 127.0.0.1 - 2/28/2023 2:46:20 PM
+5 - 1 - YKS Payment successful - 127.0.0.1 - 2/28/2023 2:46:25 PM
+6 - 1 - Taxes Payment successful - 127.0.0.1 - 2/28/2023 2:46:29 PM
+7 - 1 - YKS Payment successful - 127.0.0.1 - 2/28/2023 2:46:33 PM
